@@ -1,0 +1,66 @@
+@media (min-width: 0px) and (max-width: 575px){
+    /* header start */
+    .about-content{
+      padding: 10px;
+    }
+    .about-content h3{
+      font-size: 1.7rem;
+    }
+    .fast-sec{
+      margin-top: 50%;
+    
+     }
+      nav{
+        position: absolute;
+       }
+       .banner-items{
+        position:relative;
+       }
+       .navbar-toggler {
+        border: 0px;
+      }
+      .about-headline{
+        padding: 10px;
+      }
+      .about-headline h3{
+        font-size: 1.7rem;
+      }
+      .headline {
+        font-size: 30px;
+      }
+      .beleive{
+        background-color: #fff;
+      }
+      .about-us {
+        padding-top: 100px;
+      }
+      .belive-content h3{
+        font-size: 1.8rem;
+        font-weight: 700;
+      }
+      .services-content h3{
+        font-size: 1.8rem;
+      }
+    /* header end */
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    /* header start */
+    .fast-sec{
+      margin-top: 50%;
+    
+     }
+      .headline {
+        font-size: 32px;
+        color: white;
+        font-weight: 300;
+        letter-spacing: 10px;
+      }
+    /* header end */
+}
+@media (min-width: 768px) and (max-width: 991px){
+  .fast-sec{
+    margin-top: 50%;
+  
+   }
+}
